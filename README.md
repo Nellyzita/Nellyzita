@@ -1,7 +1,7 @@
-### Oi gente, eu sou a Nelly :)
+### Olá! Eu sou a Amanda :)
 
-- 📘 Estudando C
-- 🩵 Pronouns: Ela/Dela
+- JavaScript developer
+- Dev Front-end
 
 <div>
   <a href="https://github.com/nellyzita">
